@@ -1,2 +1,3 @@
 # git_learning
-we are learning git!
+we are learning git! 
+Oka! Let us go!
